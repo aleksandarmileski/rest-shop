@@ -1,6 +1,7 @@
 {
 	"env": {
 		"MONGO_ATLAS_PW": "YfBll0BW19QJuoQx",
-		"MONGO_ATLAS_DB": "rest-shop"
+		"MONGO_ATLAS_DB": "rest-shop",
+		"JWT_KEY": "secret"
 	}
 }
